@@ -1,0 +1,1 @@
+stronka o ustonogach - tabela

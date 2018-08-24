@@ -1,0 +1,83 @@
+body{
+  background:#444;
+  font-family: "Raleway";
+  font-weight:normal;
+  color:#999;
+  margin:0px;
+}
+img{
+  margin-left:0px;
+  margin-right:0px;
+  margin-top:0px;  
+  height: auto;
+  width:100%;
+  top:0px;
+  left:0px;
+  z-index:2;
+}
+h1{
+  background:rgba(0,0,0, 0.8);
+  color:rgba(255,255,255, 1);
+  text-align:center;
+  font-weight:bold;
+  font-size:40px;
+  z-index:1;
+  position:absolute;
+  top:280px;
+  width:100%;
+
+}
+h2{
+  color:rgba(255,255,255, 1);
+} 
+strong{
+  font-weight:bold;
+  font-size:20px;
+}
+#naglowek{
+  background:rgba(255, 246, 0, 0.8);
+  border-radius:8px;
+  color:rgba(0,0,0, 0.8);
+  text-align:left;
+  font-size:25px;
+  padding:10px;
+  font-weight:bold;
+  margin-top:25px;
+  margin-left:auto;
+  margin-right:auto;
+  width:80%; 
+}
+article{
+  padding:10px;
+  letter-spacing: -.020em;
+}
+table{
+    caption-side:top;
+    table-layout:auto;
+    width:85%;
+    text-align:center;
+    margin-left:auto;    
+    margin-right:auto;
+    border:1px solid;
+    border-collapse:collapse;
+}
+td{
+  border:1px solid;
+  padding:5px;
+}
+caption{
+  border:1px solid;
+  border-collapse:collapse;
+}
+#tabela1wiersz{
+    background-color: rgba(45, 43, 47, 0.60);
+}
+#link{
+  text-align:center;
+}
+a {
+  color: rgba(0,253,243, 0.8);
+}
+a:hover {
+  color: rgba(255,255,255, 0.6);
+}
